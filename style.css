@@ -9,7 +9,7 @@ p{
     font-size: 150px;
 }
 body{
-    margin: 200px 0;
+    margin-top: 200px;
     display: flex;
     justify-content: center;
     align-items: center;
